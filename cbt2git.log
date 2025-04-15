@@ -1,6 +1,6 @@
-2025-04-13 19:20:21.637532 - Received CBT.V505.FILE397.PDS from FILE397.XMI 
-2025-04-13 19:20:21.638243 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE397.PDS, moved to PDS/$$$#DATE
-2025-04-13 19:20:21.638344 - Found $MSG.txt (text/plain) in CBT.V505.FILE397.PDS, moved to PDS/$MSG
-2025-04-13 19:20:21.638455 - Found @FILE397.txt (text/plain) in CBT.V505.FILE397.PDS, moved to PDS/@FILE397
-2025-04-13 19:20:21.638562 - Found PACK.rexx (text/plain) in CBT.V505.FILE397.PDS, moved to PDS/PACK
-2025-04-13 19:20:21.638657 - Found UNPK.rexx (text/plain) in CBT.V505.FILE397.PDS, moved to PDS/UNPK
+2025-04-15 02:04:57.858823 - Received CBT.V505.FILE397.PDS from FILE397.XMI 
+2025-04-15 02:04:57.859939 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE397.PDS, moved to PDS/$$$#DATE
+2025-04-15 02:04:57.860258 - Found $MSG.txt (text/plain) in CBT.V505.FILE397.PDS, moved to PDS/$MSG
+2025-04-15 02:04:57.860427 - Found @FILE397.txt (text/plain) in CBT.V505.FILE397.PDS, moved to PDS/@FILE397
+2025-04-15 02:04:57.860604 - Found PACK.rexx (text/plain) in CBT.V505.FILE397.PDS, moved to PDS/PACK
+2025-04-15 02:04:57.860779 - Found UNPK.rexx (text/plain) in CBT.V505.FILE397.PDS, moved to PDS/UNPK
